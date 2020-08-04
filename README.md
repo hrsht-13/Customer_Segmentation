@@ -5,11 +5,15 @@ An automobile company has plans to enter new markets with their existing product
 In their existing market, the sales team has classified all customers into 4 segments (A, B, C, D ). Then, they performed segmented outreach and communication for different segment of customers. This strategy has work exceptionally well for them. They plan to use the same strategy on new markets and have identified 2627 new potential customers. 
 You are required to help the manager to predict the right group of the new customers.
 ## Dataset
+![alt text](https://github.com/hrsht-13/Demand_Forecasting/blob/master/Data%20_Description.png)
+###### Link: https://datahack.analyticsvidhya.com/contest/janatahack-customer-segmentation/#ProblemStatement
 ## Evaluation Criteria
 The evaluation metric for this hackathon is Accuracy Score.
 ## LeaderBoard
+
 No. of Registered: 15590
 
 Public Leaderboard rank: 11
 
 Private Leaderboard rank: 25
+###### Link: https://datahack.analyticsvidhya.com/contest/janatahack-customer-segmentation/#LeaderBoard
